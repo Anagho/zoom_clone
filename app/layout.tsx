@@ -11,8 +11,8 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "H-TECHHUB",
-  description: "h-tech online sessions app",
+  title: "conferex",
+  description: "conferex online meeting platform",
   icons: {
     icon: '/icons/icon.png'
   }
@@ -28,7 +28,7 @@ export default function RootLayout({
       <ClerkProvider
         appearance={{
           layout: {
-            logoImageUrl: "/icons/logo.jpg",
+            logoImageUrl: "/icons/logo.svg",
           },
           variables: {
             colorText: "#fff",
