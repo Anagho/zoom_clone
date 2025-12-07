@@ -4,10 +4,10 @@ import { Metadata } from "next";
 import React, { ReactNode } from "react";
 
 export const metadata: Metadata = {
-  title: "H-TECHHUB",
-  description: "h-tech online sessions app",
+  title: "conferex",
+  description: "conferex online meeting platform",
   icons: {
-    icon: "/icons/icon.png",
+    icon: "/icons/svg",
   },
 };
 
