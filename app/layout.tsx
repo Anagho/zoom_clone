@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "conferex",
   description: "conferex online meeting platform",
   icons: {
-    icon: '/icons/icon.png'
+    icon: '/icons/icon.svg'
   }
 };
 
