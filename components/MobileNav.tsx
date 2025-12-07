@@ -37,8 +37,7 @@ const MobileNav = () => {
               className="max-sm:size-10"
             />
             <p className="text-[20px] font-extrabold text-white">
-              <span className="text-gold-1 bg-red-500 px-1">H</span>
-              <span className="text-[23px]">-TECH</span>
+              Conferex
             </p>
           </Link>
 

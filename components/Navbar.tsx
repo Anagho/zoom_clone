@@ -15,7 +15,7 @@ const Navbar = () => {
                 alt='logo'
                 className='max-sm:size-10'
             />
-            <p className='text-[20px] font-extrabold text-white max-sm:hidden'>Conferex</p>
+            <p className='text-[20px] font-extrabold text-white'>Conferex</p>
         </Link>
 
         <div className="flex-between gap-5">
